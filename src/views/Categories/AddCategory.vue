@@ -2,7 +2,7 @@
   <div class="container col-md-6 mt-5">
     <div class="row">
       <div class="text-center">
-        <h3>Add Category</h3>
+        <h1>Add Category</h1>
       </div>
     </div>
     <div class="row">

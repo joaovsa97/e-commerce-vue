@@ -13,6 +13,9 @@ export default {
 </script>
 
 <style>
+h1 {
+  font-size: 2.5rem;
+}
 body {
   background-color: rgb(250, 215, 215);
 }
